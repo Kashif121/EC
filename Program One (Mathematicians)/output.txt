@@ -1,0 +1,69 @@
+
+Names			Test1	Test2	Test3	Test4	Averages
+____			_____	_____	_____	_____	_______
+
+   Albert Einstein	53	75	92	68	72.00	
+   Charles Babbage	96	72	85	92	86.25	
+    Claude Shannon	91	86	87	41	76.25	
+   John vonNeumann	40	93	92	78	75.75	
+     Niklaus Wirth	59	83	91	67	75.00	
+      Ada Lovelace	91	84	98	63	84.00	
+      Thomas Bayes	70	81	92	100	85.75	
+Sofia Kovalevskaya	31	46	53	61	47.75	
+     Blaise Pascal	90	72	80	75	79.25	
+      Grace Hooper	81	92	73	80	81.50	
+      Isaac Newton	32	85	93	67	69.25	
+
+Names			Test1	Test2	Test3	Test4	Averages
+____			_____	_____	_____	_____	_______
+
+   Charles Babbage	96	72	85	92	86.25	
+      Thomas Bayes	70	81	92	100	85.75	
+      Ada Lovelace	91	84	98	63	84.00	
+      Grace Hooper	81	92	73	80	81.50	
+     Blaise Pascal	90	72	80	75	79.25	
+    Claude Shannon	91	86	87	41	76.25	
+   John vonNeumann	40	93	92	78	75.75	
+     Niklaus Wirth	59	83	91	67	75.00	
+   Albert Einstein	53	75	92	68	72.00	
+      Isaac Newton	32	85	93	67	69.25	
+Sofia Kovalevskaya	31	46	53	61	47.75	
+
+
+Names			Test1	Test2	Test3	Test4	Averages
+____			_____	_____	_____	_____	_______
+
+   Charles Babbage	96	72	85	92	86.25	
+      Thomas Bayes	70	81	92	100	85.75	
+      Ada Lovelace	91	84	98	63	84.00	
+      Grace Hooper	81	92	73	80	81.50	
+     Blaise Pascal	90	72	80	75	79.25	
+    Claude Shannon	91	86	87	41	76.25	
+   John vonNeumann	40	93	92	78	75.75	
+     Niklaus Wirth	59	83	91	67	75.00	
+   Albert Einstein	53	75	92	68	72.00	
+      Isaac Newton	32	85	93	67	69.25	
+Sofia Kovalevskaya	31	46	53	61	47.75	
+
+Names			Test1	Test2	Test3	Test4	Averages
+____			_____	_____	_____	_____	_______
+
+   Charles Babbage	96	XXX	85	92	91.00	
+      Thomas Bayes	XXX	81	92	100	91.00	
+      Ada Lovelace	91	84	98	XXX	91.00	
+      Grace Hooper	81	92	XXX	80	84.33	
+     Blaise Pascal	90	XXX	80	75	81.67	
+    Claude Shannon	91	86	87	XXX	88.00	
+   John vonNeumann	XXX	93	92	78	87.67	
+     Niklaus Wirth	XXX	83	91	67	80.33	
+   Albert Einstein	XXX	75	92	68	78.33	
+      Isaac Newton	XXX	85	93	67	81.67	
+Sofia Kovalevskaya	XXX	46	53	61	53.33	
+
+Tests	Mean	Median	Mode	Sd
+
+Test 1	66.727	70.0	91	23.810
+Test 2	79.000	83.0	72	12.424
+Test 3	85.091	91.0	92	12.109
+Test 4	72.000	68.0	67	15.142
+
